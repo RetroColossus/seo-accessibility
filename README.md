@@ -1,25 +1,26 @@
-# HORISEON - Online Business Management
-  ## Search Engine Optimization
+# Code Refactor Readme
 
-   * make sure users are searching for the right   business
-   * increase online visibilty
-   * get the right customers for your business
+  ## Updated HTML and CSS to Follow Accessibility Standards
 
-  ### Lead Generation
+   * updated HTML elements 
+   * added alt attributes where needed
+   * improved readability for screen reader
 
-    * seo stategies that bring leads directly to your site requiring less work for your business
+  ## Restructured HTML
 
-  ## Online Reputation
-
-   * limit negative opinions about your business
-   * keep track of reviews
-   * control what people see about your business
+   * restructured HTML without changing its external behavior
+   * added comments for organization and understanding of the code
+   * indented where needed for developer readability
+  
 
   ## Social Media Marketing
 
    * help you to determine which platform is suited best for your company
    * find the right markets for lead generation
 
+  ## Lead Generation
+
+   * seo stategies that bring leads directly to your site requiring less work for your business
    
 
     
