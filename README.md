@@ -25,7 +25,7 @@
    * added comments for developer readability
 
    ## Image of Project:
-   ![alt text](https://github.com/)
+   ![alt text](https://github.com/RetroColossus/seo-accessibility/blob/main/assets/images/readme%20screen%20shot.png)
 
 
 
