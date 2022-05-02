@@ -2,7 +2,7 @@
 
   ### Horiseon is an online business management site that helps businesses with their SEO, branding, social media, and cost management.
 
-  ### Project: update HTML and CSS for accessibility
+  ## Project: update HTML and CSS for accessibility
 
   ## Updated HTML and CSS to Follow Accessibility Standards
 
@@ -25,7 +25,14 @@
    * added comments for developer readability
 
    ## Image of Project:
-   ![alt text](https://github.com/RetroColossus/seo-accessibility/blob/main/assets/images/readme%20screen%20shot.png)
+   ![screenshot of project code refactor](https://github.com/RetroColossus/seo-accessibility/blob/main/assets/images/readme%20screen%20shot.png)
+
+   ## Project Link:
+
+   <https://retrocolossus.github.io/seo-accessibility/>
+
+
+
 
 
 
