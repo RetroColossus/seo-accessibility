@@ -7,7 +7,7 @@
 
   ### Lead Generation
 
-      * seo stategies that bring leads directly to your site requiring less work for your business
+    * seo stategies that bring leads directly to your site requiring less work for your business
 
   ## Online Reputation
 
