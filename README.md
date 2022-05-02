@@ -1,4 +1,4 @@
-# Code Refactor Readme
+# Code Refactor for Horiseon Readme
 
   ## Updated HTML and CSS to Follow Accessibility Standards
 
@@ -11,16 +11,16 @@
    * restructured HTML without changing its external behavior
    * added comments for organization and understanding of the code
    * indented where needed for developer readability
+   * Fixed ID links
   
 
-  ## Social Media Marketing
+  ## Consolidated CSS
 
-   * help you to determine which platform is suited best for your company
-   * find the right markets for lead generation
+   * consolidated CSS selectors
+   * organized code according to cascading order 
+   * added comments 
 
-  ## Lead Generation
-
-   * seo stategies that bring leads directly to your site requiring less work for your business
+  
    
 
     
