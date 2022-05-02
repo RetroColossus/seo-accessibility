@@ -15,7 +15,7 @@
    * restructured HTML without changing its external behavior
    * added comments for organization and understanding of the code
    * indented where needed for developer readability
-   * fixed ID links
+   * fixed id links
   
 
   ## Consolidated CSS
